@@ -10,3 +10,5 @@ altair
 pymongo
 plotly
 scikit-learn>=1.0
+torch
+torchvision
