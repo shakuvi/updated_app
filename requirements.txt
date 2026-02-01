@@ -1,0 +1,12 @@
+streamlit
+streamlit-webrtc
+opencv-python
+mediapipe==0.10.21
+numpy
+pandas
+matplotlib
+joblib
+altair
+pymongo
+plotly
+scikit-learn>=1.0
